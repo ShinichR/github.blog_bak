@@ -1,19 +1,13 @@
 ---
 layout: page
 title: shinichr
-tagline:     less is more
+tagline: less is more
 ---
 {% include JB/setup %}
 
 
 
-## newest post
-
-
-## Sample Posts
-
-
-Here's a sample "posts list".
+## my post
 
 <ul class="posts">
   {% for post in site.posts %}

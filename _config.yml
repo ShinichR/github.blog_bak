@@ -1,3 +1,10 @@
+title : My Blog -)
+
+author :
+    name : lei
+    email : shinichi285264595@gmail.com
+    github : shinichr
+
 pygments: true
 safe: true
 auto: true

@@ -10,13 +10,13 @@ links:
   - name:         About
     url:          /about
   - name:         Blog
-    url:          http://muan.co
+    url:          http://ShinichR.me
     external:     true
   - name:         Email
-    url:          mailto:hello@muan.co
+    url:          mailto:shinich285264595@gmail.com
     external:     true
   - name:         GitHub
-    url:          http://github.com/muan
+    url:          http://github.com/ShinichR
     external:     true
 highlighter:      pygments
 permalink:        pretty

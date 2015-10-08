@@ -2,7 +2,7 @@
 layout: post
 title: "poj The Unique MST 最小生成树唯一性"
 description: "poj The Unique MST 最小生成树唯一性"
-category:  最小生成树 MST
+category:
 tags: []
 ---
 

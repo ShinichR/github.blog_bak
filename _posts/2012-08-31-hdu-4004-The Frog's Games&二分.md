@@ -2,7 +2,7 @@
 layout: post
 title: "hdu 4004 The Frog's Games&二分"
 description: "hdu 4004 The Frog's Games&二分"
-category: 二分
+category:
 tags: []
 ---
 

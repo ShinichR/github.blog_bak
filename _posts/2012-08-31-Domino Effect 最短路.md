@@ -2,7 +2,7 @@
 layout: post
 title: "poj Domino Effect 最短路"
 description: "poj Domino Effect 最短路"
-category: 最短路
+category: 
 tags: []
 ---
 

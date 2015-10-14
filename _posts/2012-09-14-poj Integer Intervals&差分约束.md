@@ -1,8 +1,7 @@
-
 ---
 layout: post
-title: "poj 1716 Integer Intervals&差分约束"
-description: "poj 1716 Integer Intervals&差分约束"
+title: "poj Integer Intervals&差分约束"
+description: "poj Integer Intervals&差分约束"
 category:
 tags: []
 ---
